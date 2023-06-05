@@ -3,7 +3,7 @@
 ## 3-Stage
 整个过程分为三个阶段
 
-![3-stage](../assets/1.png) 
+![3-stage](../assets/AL-MoST.png) 
 
 ### Step 1: Reward Modeling with Synthetic Feedback
 - 主要思想: 可以直接利用以下的普适规则，生成质量有显著先后次序的数据。来训练一个好的Reward Model来给模型的输出打分。
